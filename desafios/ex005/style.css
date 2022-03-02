@@ -18,6 +18,9 @@ section{
     width: 500px;
     margin: auto;
 }
+select{
+    width: 150px;
+}
 
 footer{
     color: white;
